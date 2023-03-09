@@ -12,11 +12,11 @@ To play the game, simply run the main.py file in your terminal:
 
 You will be asked to choose whether you want to play as X or O. Then, you will enter your move by typing a number between 1 and 9, corresponding to the position on the board:
 
-`     1 | 2 | 3
+     1 | 2 | 3
     ---+---+---
      4 | 5 | 6
     ---+---+---
-     7 | 8 | 9     `
+     7 | 8 | 9
 
 The game will end when either you or the AI agent wins, or when there are no more moves left. The final board and score will be displayed.
 
